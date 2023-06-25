@@ -1,7 +1,8 @@
 package array_Assignment_1;
 
 import java.util.Arrays;
-
+Time Complexity: O(n)
+Space Complexity: O(1)
 public class In_Place_Replace {
 
 	
